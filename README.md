@@ -3,3 +3,4 @@ This repository contains multiple projects on a [dataset of hotel booking demand
 nbviewer for projects: <br>
 [0-overview of visual analyses](https://nbviewer.org/github/yl5787/hotel-booking-demand/blob/main/0-overview%20of%20visual%20analyses.ipynb)<br>
 [1-repeated guests](https://nbviewer.org/github/yl5787/hotel-booking-demand/blob/main/1-repeated%20guests.ipynb)<br>
+[2-adr](https://nbviewer.org/github/yl5787/hotel-booking-demand/blob/main/2-adr.ipynb)<br>
